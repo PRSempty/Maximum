@@ -22,3 +22,10 @@ h1 {
     font-size: 24pt;
     font-family: 'Courier New', Courier, monospace;
 }
+
+.p4{
+    font-style: oblique;
+    text-align: center;
+    font-size: 24pt;
+    box-shadow: 0 0 10px 5px green;
+}
